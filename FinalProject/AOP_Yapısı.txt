@@ -1,0 +1,16 @@
+Autofac
+Autofac.Extensions.DependencyInjection
+Autofac.Extras.DynamicProxy
+
+AOP YAPILARI İÇİN GEREKLİ MODÜLLER
+
+HER ENTITY İÇİN KENDİ DAL'INI DEPENDENCY INJECTION ET
+
+MD5 , SHA1 ŞEKLİNDE ŞİFRELER HASH'LENİR
+
+Microsoft.IdentityModelTokens Core Katmanına eklendi.
+
+Var olan class'a kendi metotlarımızı eklyebiliriz. buna extensions denir.
+
+out ve ref kullanımına bak(++), extensions kullanımı,array kullanımları
+reflection konusu,transactional konusu bak(tutarlılığı korumak için),params konusu(++)

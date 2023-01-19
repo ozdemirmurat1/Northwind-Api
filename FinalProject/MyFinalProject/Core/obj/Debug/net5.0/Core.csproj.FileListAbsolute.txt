@@ -1,0 +1,12 @@
+D:\Engin Demiroğ\FinalProject\MyFinalProject\Core\bin\Debug\net5.0\Core.deps.json
+D:\Engin Demiroğ\FinalProject\MyFinalProject\Core\bin\Debug\net5.0\Core.dll
+D:\Engin Demiroğ\FinalProject\MyFinalProject\Core\bin\Debug\net5.0\Core.pdb
+D:\Engin Demiroğ\FinalProject\MyFinalProject\Core\obj\Debug\net5.0\Core.csproj.AssemblyReference.cache
+D:\Engin Demiroğ\FinalProject\MyFinalProject\Core\obj\Debug\net5.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Engin Demiroğ\FinalProject\MyFinalProject\Core\obj\Debug\net5.0\Core.AssemblyInfoInputs.cache
+D:\Engin Demiroğ\FinalProject\MyFinalProject\Core\obj\Debug\net5.0\Core.AssemblyInfo.cs
+D:\Engin Demiroğ\FinalProject\MyFinalProject\Core\obj\Debug\net5.0\Core.csproj.CoreCompileInputs.cache
+D:\Engin Demiroğ\FinalProject\MyFinalProject\Core\obj\Debug\net5.0\Core.dll
+D:\Engin Demiroğ\FinalProject\MyFinalProject\Core\obj\Debug\net5.0\refint\Core.dll
+D:\Engin Demiroğ\FinalProject\MyFinalProject\Core\obj\Debug\net5.0\Core.pdb
+D:\Engin Demiroğ\FinalProject\MyFinalProject\Core\obj\Debug\net5.0\ref\Core.dll
